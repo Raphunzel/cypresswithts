@@ -1,0 +1,16 @@
+{
+    "Create": [
+        {
+            "Group": "Deal",
+            "Name": "vehicleWidth",
+            "Active": "TRUE"
+        }
+    ],
+    "Edit": [
+        {
+            "Group": "Deal",
+            "Name": "FName",
+            "Active": "TRUE"
+        }
+    ]
+}

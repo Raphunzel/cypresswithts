@@ -1,0 +1,26 @@
+{
+  "Create": [
+    {
+      "Group": "Applicant",
+      "Name": "vehicleMiles",
+      "Active": "TRUE"
+    },
+    {
+      "Group": "Applicant",
+      "Name": "vehicleHeight",
+      "Active": "TRUE"
+    }
+  ],
+  "Edit": [
+    {
+      "Group": "Deal",
+      "Name": "LName",
+      "Active": "TRUE"
+    },
+    {
+      "Group": "Deal",
+      "Name": "vehicleType",
+      "Active": "TRUE"
+    }
+  ]
+}

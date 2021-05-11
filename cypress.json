@@ -1,0 +1,11 @@
+{
+    "reporter": "mochawesome",
+        "reporterOptions": {
+            "overwrite": false,
+            "html": true,
+            "json": true
+        },
+        "env": {
+            "url": "https://www.toyotabharat.com/feedback/"
+        }
+    }
